@@ -32,7 +32,7 @@ def main(args):
     if (result):
       print(f"{arg} has been seen {result} times before.")
     else:
-      print(f'{arg} is a safely password')  
+      print(f'{arg} is a safety password')  
 
 if __name__ == '__main__':
   main(sys.argv[1:])
